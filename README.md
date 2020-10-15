@@ -8,7 +8,6 @@ Dependecy: <br />
 * Pygame : pip install pygame
 <br />
 
-![In-game Image](https://github.com/Yoddha99/Space-Invader/blob/master/screenshots/4s.PNG)
-![In-game Image](https://github.com/Yoddha99/Space-Invader/blob/master/screenshots/5s.PNG)
-![In-game Image](https://github.com/Yoddha99/Space-Invader/blob/master/screenshots/1s.PNG)
-
+![In-game Image](https://github.com/Saujanya0910/Space-Invader/blob/master/screenshots/4s.PNG)
+![In-game Image](https://github.com/Saujanya0910/Space-Invader/blob/master/screenshots/5s.PNG)
+![In-game Image](https://github.com/Saujanya0910/Space-Invader/blob/master/screenshots/1s.PNG)
